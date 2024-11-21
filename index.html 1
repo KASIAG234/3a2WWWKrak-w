@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+	<head>
+		<title> Kraków </title>
+		<meta charset ="UTF-8">
+	</head>
+	<body bgcolor="e5dff5">
+	<header>
+		<h1 align="center"> Kraków moje miasto </h1>
+		<h2> Kraków moje miasto </h2>
+		<h3> Kraków moje miasto </h3>
+		<nav>
+			<ul>
+				<li><a href="index.html">Główna</a></li>
+				<li><a href="js.html">JavaScript</a></li>
+				<li><a href="kontakty.html" target="_blank">Kontakty</a></li>
+				<li><a href="#footer">Footer</a></li>
+			</ul>
+		</nav>
+	</header>
+		<main>
+
+		<p>Kraków, Stołeczne Królewskie Miasto Kraków – miasto na prawach powiatu położone w południowej 
+		Polsce nad Wisłą, drugie co do liczby mieszkańców[1]. Formalna stolica Polski do 1795 roku i 
+		miasto koronacyjne oraz nekropolia królów Polski. Od 1000 roku nieprzerwanie stolica diecezji 
+		krakowskiej (jednej z pięciu w ówczesnej Polsce), a od 1925 archidiecezji i metropolii. 
+		Lokowany przed 1228 rokiem, ponownie w 1257 r.[5]. Od odzyskania niepodległości w 1918 r. 
+		miasto wojewódzkie (od 1999 r. siedziba władz województwa małopolskiego), jest także centralnym 
+		ośrodkiem metropolitalnym aglomeracji krakowskiej i Krakowskiego Obszaru Metropolitalnego. 
+		Kraków jest stolicą historycznej Małopolski. Leży na obszarze Bramy Krakowskiej, Niecki 
+		Nidziańskiej i Pogórza Zachodniobeskidzkiego.</p>
+		<p>&copy; Kasia Grącka 3a</p>
+		<hr>
+		<h2> Wierszyk o Krakowie – Jedziemy do Krakowa! </h2>
+
+		<p> Dziś jedziemy do Krakowa <br>
+		Każda dama już gotowa<br>
+		By zobaczyć go od nowa<br>
+		Znów jedziemy do Krakowa<br>
+		<br>
+		<pre>
+		<strike>Kamieniczek tu jest wiele</strike><br>
+		Piękne parki przy kościele<br>
+		Miejsce spotkań co niedzielę<br>
+		Kamieniczek tu jest wiele! <br> </p>
+		</pre>
+		<figure>
+		<img src="obr 1.jpg" alt="obrazek krakowa" width="500px">
+		</figure>
+		
+		<ul>
+		<li> text1 </li>
+		<li> text2 </li>
+		<li> text3 </li>
+		</ul>
+
+		<ol>
+		<li> text1 </li>
+		<li> text2 </li>
+		<li> text3 </li>
+		</ol>
+
+		<a href="https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna">Wikipedia</a>
+
+		<table border="1"> 
+<tr><th>imie</tgh><th>nazwisko</th><th>miasto</th></tr>
+<tr><td>kasia</tgh><td>gracka</td><td>Krakow</td></tr>
+<tr><td>ncsdjub</td><td>bsjhbfsbfs</td></tr>
+		</table>
+		</main>
+		<footer id="footer">
+		<p>
+		x<sub>1</sub> + x<sub>2</sub> = 100<br>
+		lekcja trwa 9<sup>20</sup> do 10<sup>05</sup>
+		</p>
+		<pre>
+   		Dziś jedziemy do Krakowa 
+			Każda dama już gotowa<br>
+				By zobaczyć go od nowa<br>
+					Znów jedziemy do Krakowa
+		</pre>
+		<ol> <li> lista zagnieżdżona
+		<ul>
+		<li> pierwszy podpunkt</li>
+		<li> drugi podpunkt </li>
+		</ul> </li> </ol>
+		<div id="font_blue">block</div>
+
+		</footer>
+	</body>
+</html>
